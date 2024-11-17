@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Emily Reynolds</title>
-    <link>https://rellina.github.io/</link>
-    <description>Recent content in Home on Emily Reynolds</description>
+    <title>Arts on Emily Reynolds</title>
+    <link>https://rellina.github.io/art/</link>
+    <description>Recent content in Arts on Emily Reynolds</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rellina.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>art</title>
-      <link>https://rellina.github.io/_art/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://rellina.github.io/_art/</guid>
-      <description>This is a summery.</description>
-    </item>
+    <atom:link href="https://rellina.github.io/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doughnut</title>
       <link>https://rellina.github.io/art/doughnutchallenge/</link>
